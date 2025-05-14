@@ -1,12 +1,13 @@
 
-###**Introduction** 
+**Introduction** 
 The simulation demonstrates how operating systems allocate, manage, and swap
 memory pages between RAM and Virtual Memory (VM) for multiple processes. The system
 ensures optimized page allocation, avoids fragmentation, and facilitates smooth swapping of
 leftover pages.
 
 <hr/>
-###**Features and Challenges**
+
+**Features and Challenges**
 The system minimizes fragmentation through smart limit calculations during page allocation
 and supports dynamic, efficient swapping of pending pages. Real-time memory visualization
 after each operation enhances transparency. Key challenges included avoiding fragmentation,
